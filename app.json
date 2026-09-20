@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "SmartWallet",
+    "slug": "smartwallet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.smartwallet.prototype"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker",
+      "expo-sqlite",
+      "expo-font"
+    ]
+  }
+}
